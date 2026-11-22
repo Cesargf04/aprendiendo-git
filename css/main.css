@@ -44,3 +44,40 @@ h2 {
     color: #1d4ed8;
     margin-bottom: 12px;
 }
+
+
+/* ==========================================
+   SECCIÓN 3.1: RAMAS LOCALES Y REMOTAS
+   ========================================== */
+
+#ramas {
+    margin-top: 30px;
+    padding: 25px;
+    border-left: 5px solid #2563eb;
+    border-radius: 10px;
+    background-color: #eff6ff;
+}
+
+#ramas h2 {
+    color: #1d4ed8;
+    margin-bottom: 15px;
+}
+
+#ramas h3 {
+    color: #1e40af;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+#ramas p {
+    line-height: 1.7;
+}
+
+#ramas ul {
+    padding-left: 25px;
+}
+
+#ramas li {
+    margin-bottom: 10px;
+    line-height: 1.6;
+}
